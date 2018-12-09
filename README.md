@@ -1,2 +1,4 @@
 # hello-world
 Testing
+
+The discipline which makes the soldiers of a free country reliable in battle is not to be gained by harsh or tyrannical treatment. On the contrary, such treatment is far more likely to destroy than to make an army.  It is possible to imprt instructions and give commands in such a manner and such a tone of voice to inspire in the soldier no feeling but an intense desire to obey, while the opposite manner and tone of voice cannot fail to inspire resentment and a desire to disobey.  The one mode or the other of dealing with subordinates springs from a corresponding spirit in the breast of the commander. He who feels the respect which is due to others cannot fail to inspire in them regard for himself, while he who feels, and hence manifests disrespect towards others, especially his inferiors, cannot fail to inspire hatred against himself. 
